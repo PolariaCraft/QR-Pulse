@@ -1,2 +1,2 @@
 # QR-Pulse
-La plateforme Open-Source QR-Pulse qui convertit des url en QR Code
+La plateforme QR-Pulse qui convertit des url en QR Code fait son arrivés sur github.
